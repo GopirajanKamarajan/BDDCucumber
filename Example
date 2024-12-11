@@ -3,6 +3,7 @@ public class ReverseString {
         String s = "Suthir";
         StringBuilder reversed = new StringBuilder(s);
         reversed.reverse();
+Sysout();
         System.out.println("Reversed string: " + reversed.toString());
     }
 }
