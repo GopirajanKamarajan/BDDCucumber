@@ -1,4 +1,4 @@
-enter word
+enter words
 new words add
 insurance
 banking
