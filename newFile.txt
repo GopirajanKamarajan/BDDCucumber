@@ -1,1 +1,5 @@
-enter words
+enter word
+new words add
+insurance
+banking
+investment
