@@ -1,2 +1,2 @@
 This is for Testing Purpose
-This is for functional testing 
+This is for Automation testing 
