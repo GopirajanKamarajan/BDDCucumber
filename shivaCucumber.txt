@@ -6,3 +6,5 @@ For training
 Cucumber
 Git / GITHUB
 Jenkins
+
+Training session - Git/Jenkins/Cucumber
